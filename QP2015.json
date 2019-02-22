@@ -1,0 +1,11 @@
+{
+    "data":
+    {
+        "appConfig":{"is_update":2},
+        "updateUrl":["http:\/\/update.sdjh87.cn"],
+        "stopServerDesc":"服务器将进行短暂维护，预计17:00重新开放！",
+        "serverStatus":1,
+        "currentVersion":{"lobby":"2.19.1.24.1"}
+    }
+    
+}
